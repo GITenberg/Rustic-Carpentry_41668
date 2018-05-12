@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41290'
     url: http://www.gutenberg.org/2009/agents/41290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41668#Rustic-Carpentry
 gutenberg_issued: '2012-12-20'
 gutenberg_type: Text
 identifiers:
