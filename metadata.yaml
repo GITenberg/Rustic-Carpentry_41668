@@ -1,0 +1,31 @@
+_repo: Rustic-Carpentry_41668
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41668-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Hasluck, Paul N. (Paul Nooncree)
+    alias: Hasluck, Paul Nooncree
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '41290'
+    url: http://www.gutenberg.org/2009/agents/41290
+description: ''
+gutenberg_issued: '2012-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41668'
+  lccn: 08004595
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rustic woodwork'
+- !lcc 'TT'
+tableOfContents: Light rustic work -- Flower stands, vases, etc. -- Tables -- Chairs
+  and seats -- Gates and fences -- Rosery walk -- Porches -- Canopy for swing -- Aviary
+  -- Foot-bridges -- Verandahs -- Tool houses, garden shelters, etc. -- Summer houses.
+title: Rustic Carpentry
+url: http://www.gutenberg.org/ebooks/41668
